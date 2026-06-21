@@ -64,7 +64,8 @@ Department-level analysis revealed:
 Although Research & Development recorded the highest number of exits, Sales displayed a disproportionately high attrition burden relative to department size, indicating a higher workforce risk concentration.
 
  4. Employee Satisfaction Indicates Retention Concerns
-The average Job Satisfaction score was calculated at 2.6 out of 4.This translates to:
+The average Job Satisfaction score was calculated at 2.6 out of 4.
+This translates to:
 * 65% Satisfaction Level
 * 34% Satisfaction Gap
 The results suggest that employee engagement and workplace satisfaction require further investigation to reduce future attrition risk
