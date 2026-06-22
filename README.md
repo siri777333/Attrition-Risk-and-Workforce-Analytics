@@ -82,12 +82,19 @@ Additionally, single employees represented nearly one-third of the workforce, ma
 ## Business Recommendations
 
 Based on the analysis, the following actions are recommended:
-## Develop structured career growth programs for employees aged 25–34.
-## Review compensation, workload, and career progression opportunities for Laboratory Technicians and Sales Executives.
-## Monitor departmental attrition as a percentage of workforce size rather than relying solely on absolute exit counts.
-## Strengthen employee engagement initiatives to improve job satisfaction levels.
-## Build mentorship, networking, and community engagement programs to improve retention among highly mobile employee groups.
-  
+* Prioritize retention programs for employees aged **25–34**, the highest attrition-risk group.
+* Review compensation, workload, and career growth opportunities for **Laboratory Technicians** and **Sales Executives**, the most affected job roles.
+* Track attrition rates at the department level and implement targeted retention initiatives in high-turnover teams.
+* Improve employee engagement through regular feedback, recognition, and career development programs.
+* Strengthen mentorship and professional development initiatives to improve retention among early-career employees.
+
+## Expected Impact
+* Reduce overall attrition rate (**16.1%**).
+* Improve retention in high-risk employee segments.
+* Lower recruitment and replacement costs.
+* Increase workforce stability and employee engagement.
+* Enable data-driven HR decision-making.
+
 ## Tools & Skills Used
 
 * Microsoft Excel
