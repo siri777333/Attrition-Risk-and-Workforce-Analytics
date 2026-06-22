@@ -58,46 +58,49 @@ Interactive slicers allow users to dynamically filter the dashboard and explore 
 
 ## Key Workforce Insights
 
-## 1. Early-Career Employees Represent the Highest Attrition Risk
-Employees aged **25–34 years accounted for 112 exits, representing approximately 47% of total employee attrition**. This finding suggests that employees in the early stages of their careers experienced the highest turnover and may benefit from stronger career development opportunities, skill-building programs, and clear progression pathways to improve long-term retention.
+### Department-wise Attrition
+Research & Development recorded the highest number of employee exits with **133 leavers (56% of total attrition)**, followed by Sales with **92 exits (39%)** and Human Resources with **12 exits (5%)**. However, when attrition is measured relative to department size, **Sales recorded the highest attrition rate at 20.6%**, followed by **Human Resources at 19.0%**, indicating that these departments face the greatest retention challenges despite having smaller workforces.
 
-## 2.Job Role Attrition Analysis
-Laboratory Technicians experienced the highest attrition with **62 employee exits, followed by Sales Executives (57 exits) and Research Scientists (47 exits)**.
+### Job Role Attrition
 
-## 3. Sales Department Shows Elevated Attrition Risk
-Department-level analysis revealed:
-**Research & Development: 56.12% of total exits**
-**Sales: 38.82% of total exits**
-**Human Resources: 5.06% of total exits**
-Although Research & Development recorded the highest number of exits, Sales displayed a disproportionately high attrition burden relative to department size, indicating a higher workforce risk concentration.
+Laboratory Technicians experienced the highest attrition with **62 exits**, followed by **Sales Executives (57 exits)** and **Research Scientists (47 exits)**. In contrast, senior positions such as Research Directors (**2 exits**) and Managers (**5 exits**) demonstrated significantly stronger retention, suggesting that experience, compensation, and career stability may contribute to lower turnover.
 
-## 4. Employee Satisfaction Indicates Retention Concerns
-The average Job Satisfaction score was calculated at 2.6 out of 4.
-This translates to:
-** 65% Satisfaction Level**
-** 34% Satisfaction Gap**
-The results suggest that employee engagement and workplace satisfaction act as major retention factors which require further investigation to reduce future attrition risk.
+### Age Group Analysis
 
-## 5. Bachelor's Degree Holders Account for the Highest Attrition
-Employees from the **Life Sciences field accounted for the highest attrition with 89 exits, followed by Medical (63 exits) and Marketing (35 exits)**. The results suggest that employees from these educational backgrounds may face unique retention challenges, making them important focus areas for future workforce planning and employee retention initiatives.
+Employees aged **25–34 years** accounted for **112 exits**, representing approximately **47% of total employee attrition**. This finding suggests that employees in the early stages of their careers experienced the highest turnover and may benefit from stronger career development opportunities, skill-building programs, and clear progression pathways to improve long-term retention.
 
-## 6. Workforce Demographics Influence Mobility
-The workforce consisted of:
- **60% Male Employees**
- **40% Female Employees**
- Male employees contributed a larger share of total attrition compared to female employees, indicating workforce demographic differences in turnover patterns.
+### Education Level Analysis
 
-## Marital Status Analysis
-Single employees which make one third portion of total employees recorded the highest attrition with 120 exits, compared to 84 exits among married employees and 33 exits among divorced employees.
+Bachelor's Degree holders recorded the highest number of employee exits with **99 leavers**, followed by **Master's Degree holders (58)** and **Associate Degree holders (44)**. Since Bachelor's Degree holders represent the largest segment of the workforce, these findings should be interpreted alongside workforce composition rather than attrition counts alone.
 
-## Business Recommendations
+### Gender Analysis
 
-Based on the analysis, the following actions are recommended:
-* Prioritize retention programs for employees aged **25–34**, the highest attrition-risk group.
-* Review compensation, workload, and career growth opportunities for **Laboratory Technicians** and **Sales Executives**, the most affected job roles.
-* Track attrition rates at the department level and implement targeted retention initiatives in high-turnover teams.
-* Improve employee engagement through regular feedback, recognition, and career development programs.
-* Strengthen mentorship and professional development initiatives to improve retention among early-career employees.
+Male employees accounted for a larger share of total attrition than female employees. However, this trend broadly reflects the overall workforce distribution, indicating that gender alone does not appear to be a primary driver of employee turnover.
+
+### Marital Status Analysis
+
+Single employees recorded the highest attrition with **120 exits**, compared to **84 exits among married employees** and **33 exits among divorced employees**. The findings suggest that single employees are the most mobile workforce segment and may require targeted engagement and retention initiatives.
+
+## Critical Findings
+
+* Out of **1,470 employees**, **237 employees left the organization**, resulting in an overall attrition rate of **16.1%**.
+*The analysis identified several workforce segments with elevated attrition risk:
+* **Sales Department** recorded the highest attrition rate at **20.6%**, followed by **Human Resources at 19.0%**.
+* **Laboratory Technicians (62 exits)** and **Sales Executives (57 exits)** were the most affected job roles.
+* Employees aged **25–34 years** accounted for nearly **47% of all employee exits**.
+* **Marketing-educated employees** recorded a high attrition rate of **22%** alongside the lowest average job satisfaction score (**1.79/4**).
+* **Technical Degree employees** showed the highest job satisfaction (**3.91/4**) while also recording a high attrition rate (**24.2%**), indicating that external opportunities may be driving turnover.
+* Single employees represented **51% of all employee exits**, making them the largest attrition-risk demographic group.
+
+## 📋 Business Recommendations
+
+* Prioritize retention initiatives for employees aged **25–34 years** through structured career development programs, mentorship opportunities, and clear promotion pathways.
+* Review compensation, workload distribution, and career progression opportunities for **Laboratory Technicians** and **Sales Executives**, the two job roles with the highest attrition levels.
+* Investigate the drivers behind high turnover among **Marketing-educated employees**, particularly given their low job satisfaction levels.
+* Expand internal mobility and advancement opportunities for **Technical Degree employees** to reduce the risk of losing talent to external opportunities.
+* Strengthen onboarding and employee engagement initiatives for younger employees, particularly within Research & Development.
+* Closely monitor attrition within the Human Resources department, where a relatively small workforce combined with a **19% attrition rate** creates operational risk.
+* Implement targeted retention strategies for single employees, who account for more than half of all employee exits.
 
 ## Expected Impact
 * Reduce overall attrition rate (**16.1%**).
@@ -107,35 +110,47 @@ Based on the analysis, the following actions are recommended:
 * Enable data-driven HR decision-making.
 
 ## Dashboard Structure
+## 📈 Dashboard Structure
 
-## KPI Cards
-Total Employees
-Total Attrition
-Attrition Rate
-Active Employees
+### KPI Cards
 
-## Bar Charts
-Attrition by Department
-Attrition by Job Role
-Attrition by Education Field
+* Total Employees
+* Total Attrition
+* Attrition Rate
+* Active Employees
+* Average Age
+* Average Job Satisfaction
 
-## Column Chart
-Attrition by Age Group
+### Visualizations
+**Pie Chart**
+* Department-wise Attrition
 
-## Donut Charts
-Attrition by Gender
-Attrition by Marital Status
+**Bar Charts**
+* Attrition by Job Role
+* Attrition by Education Level
 
-## Interactive Features
-Department Filters
-Job Role Filters
-Education Filters
-Gender Filters
+**Column Chart**
+* Attrition by Age Group
+
+**Donut Charts**
+* Attrition by Gender
+* Attrition by Marital Status
+
+### Interactive Features
+
+**Slicers**
+* Department
+* Education Field
 
 ## Dashboard Screenshots
  Workforce Insights Dashboard
  <img width="1067" height="538" alt="Attrition and workflow screenshot" src="https://github.com/user-attachments/assets/ab1ebe5e-3a31-4aed-b9fc-9a1912dfbe4a" />
 
+ <img width="1050" height="520" alt="Attrition   Workforce 2" src="https://github.com/user-attachments/assets/1eb8d63d-6f35-491c-b6f4-28778d8c8df2" />
+
+ <img width="1063" height="529" alt="Attrition   Workforce 3" src="https://github.com/user-attachments/assets/abab6769-86f4-41fb-91a0-65bf374f2fc5" />
+
+ <img width="1048" height="531" alt="Attrition   Workforce 4" src="https://github.com/user-attachments/assets/7f332776-d395-4562-82fa-a8b157b2db84" />
 
 ## Repository Contents
 Attrition_Risk_Workforce_Insights.xlsx
