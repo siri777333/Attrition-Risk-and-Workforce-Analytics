@@ -47,13 +47,13 @@ Interactive slicers allow users to dynamically filter the dashboard and explore 
 
 ## Key Workforce Insights
 
- 1. Early-Career Employees Represent the Highest Attrition Risk
+## 1. Early-Career Employees Represent the Highest Attrition Risk
 Employees aged 25–34 accounted for 112 exits, representing approximately 47% of all employee attrition.This finding indicates that early-career professionals are the most mobile workforce segment and require targeted retention strategies focused on career growth, learning opportunities, and progression pathways.
 
- 2. Frontline Roles Drive More Than Half of Employee Exits
+## 2. Frontline Roles Drive More Than Half of Employee Exits
 Laboratory Technicians recorded 62 exits, while Sales Executives recorded 57 exits.Together, these two roles contributed over 50% of all employee attrition, highlighting a significant retention challenge within operational and customer-facing functions.
 
- 3. Sales Department Shows Elevated Attrition Risk
+## 3. Sales Department Shows Elevated Attrition Risk
 Department-level analysis revealed:
 * Research & Development: 56.12%
   of total exits
@@ -100,6 +100,11 @@ Based on the analysis, the following actions are recommended:
 * Workforce Analytics
 * HR Analytics
 * Dashboard Development
+
+## Repository Contents
+Attrition_Risk_Workforce_Insights.xlsx
+Dashboard Screenshots
+README.md
 
 ## Project Outcome
 
