@@ -55,38 +55,38 @@ Laboratory Technicians recorded 62 exits, while Sales Executives recorded 57 exi
 
 ## 3. Sales Department Shows Elevated Attrition Risk
 Department-level analysis revealed:
-* Research & Development: 56.12%
+## Research & Development: 56.12%
   of total exits
-* Sales: 38.82%
+## Sales: 38.82%
   of total exits
-* Human Resources: 5.06%
+## Human Resources: 5.06%
   of total exits
 Although Research & Development recorded the highest number of exits, Sales displayed a disproportionately high attrition burden relative to department size, indicating a higher workforce risk concentration.
 
- 4. Employee Satisfaction Indicates Retention Concerns
+## 4. Employee Satisfaction Indicates Retention Concerns
 The average Job Satisfaction score was calculated at 2.6 out of 4.
 This translates to:
-* 65% Satisfaction Level
-* 34% Satisfaction Gap
+## 65% Satisfaction Level
+## 34% Satisfaction Gap
 The results suggest that employee engagement and workplace satisfaction require further investigation to reduce future attrition risk
 
-5. Bachelor's Degree Holders Account for the Highest Attrition
+## 5. Bachelor's Degree Holders Account for the Highest Attrition
 Employees holding Bachelor's degrees contributed the largest share of employee exits.This group typically represents experienced early-career professionals who are actively seeking career advancement opportunities, making them highly attractive to competing employers.
 
-6. Workforce Demographics Influence Mobility
+## 6. Workforce Demographics Influence Mobility
 The workforce consisted of:
-* 60% Male Employees
-* 40% Female Employees
+## 60% Male Employees
+## 40% Female Employees
 Additionally, single employees represented nearly one-third of the workforce, making them one of the most mobile employee segments due to fewer geographic and family constraints.
 
 ## Business Recommendations
 
 Based on the analysis, the following actions are recommended:
-* Develop structured career growth programs for employees aged 25–34.
-* Review compensation, workload, and career progression opportunities for Laboratory Technicians and Sales Executives.
-* Monitor departmental attrition as a percentage of workforce size rather than relying solely on absolute exit counts.
-* Strengthen employee engagement initiatives to improve job satisfaction levels.
-* Build mentorship, networking, and community engagement programs to improve retention among highly mobile employee groups.
+## Develop structured career growth programs for employees aged 25–34.
+## Review compensation, workload, and career progression opportunities for Laboratory Technicians and Sales Executives.
+## Monitor departmental attrition as a percentage of workforce size rather than relying solely on absolute exit counts.
+## Strengthen employee engagement initiatives to improve job satisfaction levels.
+## Build mentorship, networking, and community engagement programs to improve retention among highly mobile employee groups.
   
 ## Tools & Skills Used
 
@@ -107,5 +107,4 @@ Dashboard Screenshots
 README.md
 
 ## Project Outcome
-
 Developed an interactive workforce analytics dashboard capable of identifying attrition risks, workforce trends, and employee retention opportunities. The dashboard enables HR teams to prioritize interventions, optimize retention investments, and support data-driven workforce planning.
