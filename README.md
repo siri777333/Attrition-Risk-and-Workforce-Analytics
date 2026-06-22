@@ -159,3 +159,15 @@ README.md
 
 ## Project Outcome
 Developed an interactive workforce analytics dashboard capable of identifying attrition risks, workforce trends, and employee retention opportunities. The dashboard enables HR teams to prioritize interventions, optimize retention investments, and support data-driven workforce planning.
+
+#  Author
+
+**Siri Chandana**
+
+**M.Pharm (Pharmaceutics) Graduate | Aspiring Healthcare & Pharma Data Analyst**
+
+**Skills:** MSSQL Server • Power BI • Excel • Healthcare Analytics • Data Visualization • Business Intelligence •Statistics Fundamentals
+•Python Fundamentals
+
+This project reflects my transition from a pharmaceutical background into data analytics by combining healthcare domain expertise with data-driven decision-making.
+ 
