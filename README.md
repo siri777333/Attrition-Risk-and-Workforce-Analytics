@@ -1,8 +1,20 @@
 # Attrition Risk & Workforce Insights Dashboard
 
+# Microsoft Excel | HR Analytics | Workforce Analytics
+
 ## Project Overview
 
-Employee attrition is one of the most expensive workforce challenges faced by organizations, impacting productivity, hiring costs, employee morale, and business continuity. This project analyzes workforce data to identify high-risk employee segments, understand the factors driving attrition, and provide actionable recommendations to improve employee retention.Using Microsoft Excel, I developed an interactive dashboard that transforms employee data into meaningful workforce insights, enabling HR teams to make data-driven retention decisions.
+Employee attrition is one of the most expensive workforce challenges faced by organizations, impacting productivity, hiring costs, employee morale, and business continuity.Developed an interactive Attrition and Workflow Analytics dashboard in Microsoft Excel to analyze employee attrition patterns, workforce demographics, and retention risks across 1,470 employees. The dashboard was designed to help HR teams identify attrition drivers, monitor workforce trends, and support data-driven decision-making through interactive visualizations and KPI tracking.
+Using Pivot Tables, Pivot Charts, Slicers, and KPI Cards, the project transforms raw employee data into actionable workforce insights that support retention planning and organizational performance improvement. 
+
+## Tools & Technologies
+Microsoft Excel
+Pivot Tables
+Pivot Charts
+Slicers
+KPI Cards
+Data Analysis
+Data Visualization
 
 ## Business Problem
 
@@ -23,6 +35,19 @@ Dataset Size:
 * Job Roles: 9
 * Average Employee Age: 37 Years
 * Overall Attrition Rate: 16%
+
+Workforce Overview
+
+The analysis was conducted on a workforce dataset containing 1,470 employees across multiple departments, job roles, age groups, education fields, and demographic categories.
+## Key Metrics
+Metric	          Value
+Total Employees	   1,470
+Total Attrition	    237
+Attrition Rate	   16.1%
+Active Employees	 1,233
+Average Age	      37 Years
+Average Salary	   ₹6.5K
+Average Tenure	  7 Years
 
 ## Dashboard Development Approach
 
