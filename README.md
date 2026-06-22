@@ -26,28 +26,14 @@ The organization was experiencing an overall attrition rate of 16%, with limited
 Without data-driven insights, retention initiatives often become reactive, generic, and costly.
 The objective of this project was to identify attrition patterns and provide clear recommendations for workforce retention.
 
-## Dataset Information
-Dataset Size:
+ ## Workforce Overview
+The analysis was conducted on a workforce dataset containing 1,470 employees across 3 departments, 9 job roles, age groups, education fields, and demographic categories.
+## Key Metrics
 * Total Employees: 1,470
 * Active Employees: 1,233
 * Employees Left: 237
-* Departments: 3
-* Job Roles: 9
 * Average Employee Age: 37 Years
 * Overall Attrition Rate: 16%
-
-Workforce Overview
-
-The analysis was conducted on a workforce dataset containing 1,470 employees across multiple departments, job roles, age groups, education fields, and demographic categories.
-## Key Metrics
-Metric	          Value
-Total Employees	   1,470
-Total Attrition	    237
-Attrition Rate	   16.1%
-Active Employees	 1,233
-Average Age	      37 Years
-Average Salary	   ₹6.5K
-Average Tenure	  7 Years
 
 ## Dashboard Development Approach
 
@@ -73,36 +59,36 @@ Interactive slicers allow users to dynamically filter the dashboard and explore 
 ## Key Workforce Insights
 
 ## 1. Early-Career Employees Represent the Highest Attrition Risk
-Employees aged 25–34 accounted for 112 exits, representing approximately 47% of all employee attrition.This finding indicates that early-career professionals are the most mobile workforce segment and require targeted retention strategies focused on career growth, learning opportunities, and progression pathways.
+Employees aged **25–34 years accounted for 112 exits, representing approximately 47% of total employee attrition**. This finding suggests that employees in the early stages of their careers experienced the highest turnover and may benefit from stronger career development opportunities, skill-building programs, and clear progression pathways to improve long-term retention.
 
-## 2. Frontline Roles Drive More Than Half of Employee Exits
-Laboratory Technicians recorded 62 exits, while Sales Executives recorded 57 exits.Together, these two roles contributed over 50% of all employee attrition, highlighting a significant retention challenge within operational and customer-facing functions.
+## 2.Job Role Attrition Analysis
+Laboratory Technicians experienced the highest attrition with **62 employee exits, followed by Sales Executives (57 exits) and Research Scientists (47 exits)**.
 
 ## 3. Sales Department Shows Elevated Attrition Risk
 Department-level analysis revealed:
-## Research & Development: 56.12%
-  of total exits
-## Sales: 38.82%
-  of total exits
-## Human Resources: 5.06%
-  of total exits
+**Research & Development: 56.12% of total exits**
+**Sales: 38.82% of total exits**
+**Human Resources: 5.06% of total exits**
 Although Research & Development recorded the highest number of exits, Sales displayed a disproportionately high attrition burden relative to department size, indicating a higher workforce risk concentration.
 
 ## 4. Employee Satisfaction Indicates Retention Concerns
 The average Job Satisfaction score was calculated at 2.6 out of 4.
 This translates to:
-## 65% Satisfaction Level
-## 34% Satisfaction Gap
-The results suggest that employee engagement and workplace satisfaction require further investigation to reduce future attrition risk
+** 65% Satisfaction Level**
+** 34% Satisfaction Gap**
+The results suggest that employee engagement and workplace satisfaction act as major retention factors which require further investigation to reduce future attrition risk.
 
 ## 5. Bachelor's Degree Holders Account for the Highest Attrition
-Employees holding Bachelor's degrees contributed the largest share of employee exits.This group typically represents experienced early-career professionals who are actively seeking career advancement opportunities, making them highly attractive to competing employers.
+Employees from the **Life Sciences field accounted for the highest attrition with 89 exits, followed by Medical (63 exits) and Marketing (35 exits)**. The results suggest that employees from these educational backgrounds may face unique retention challenges, making them important focus areas for future workforce planning and employee retention initiatives.
 
 ## 6. Workforce Demographics Influence Mobility
 The workforce consisted of:
-## 60% Male Employees
-## 40% Female Employees
-Additionally, single employees represented nearly one-third of the workforce, making them one of the most mobile employee segments due to fewer geographic and family constraints.
+ **60% Male Employees**
+ **40% Female Employees**
+ Male employees contributed a larger share of total attrition compared to female employees, indicating workforce demographic differences in turnover patterns.
+
+## Marital Status Analysis
+Single employees which make one third portion of total employees recorded the highest attrition with 120 exits, compared to 84 exits among married employees and 33 exits among divorced employees.
 
 ## Business Recommendations
 
@@ -120,18 +106,36 @@ Based on the analysis, the following actions are recommended:
 * Increase workforce stability and employee engagement.
 * Enable data-driven HR decision-making.
 
-## Tools & Skills Used
+## Dashboard Structure
 
-* Microsoft Excel
-* Pivot Tables
-* Slicers
-* KPI Cards
-* IFERROR Formula
-* Data Analysis
-* Data Visualization
-* Workforce Analytics
-* HR Analytics
-* Dashboard Development
+## KPI Cards
+Total Employees
+Total Attrition
+Attrition Rate
+Active Employees
+
+## Bar Charts
+Attrition by Department
+Attrition by Job Role
+Attrition by Education Field
+
+## Column Chart
+Attrition by Age Group
+
+## Donut Charts
+Attrition by Gender
+Attrition by Marital Status
+
+## Interactive Features
+Department Filters
+Job Role Filters
+Education Filters
+Gender Filters
+
+## Dashboard Screenshots
+ Workforce Insights Dashboard
+ <img width="1067" height="538" alt="Attrition and workflow screenshot" src="https://github.com/user-attachments/assets/ab1ebe5e-3a31-4aed-b9fc-9a1912dfbe4a" />
+
 
 ## Repository Contents
 Attrition_Risk_Workforce_Insights.xlsx
